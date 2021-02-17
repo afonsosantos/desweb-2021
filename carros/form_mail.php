@@ -2,7 +2,7 @@
 <html lang="pt">
 <head>
 	<title>Carros - Contato</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 	<header>
